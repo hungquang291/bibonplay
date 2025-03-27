@@ -1,3 +1,4 @@
+This lisp for quantity surveyor to measure the quantity that using autocad files
 (defun add_mline ()
 (foreach e_record_sub e_record
 (cond ((= 10 (car e_record_sub))
